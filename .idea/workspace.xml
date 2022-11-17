@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9abdc101-189b-41e9-814c-c1fd95bf4882" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HZYVz0u4J6LHMCF870evsf7uxK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/hanna/Documents/GitHub/SFWE301"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hanna\Documents\SFWE301\SFWE301_V2\src\main\resources\com\sfwe301\sfwe301_v2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hanna\Documents\SFWE301\SFWE301_V2\src\main\resources\images" />
+      <recent name="C:\Users\hanna\Documents\SFWE301\SFWE301_V2\src\main\java\com\sfwe301\sfwe301_v2" />
+      <recent name="C:\Users\hanna\Documents\SFWE301\SFWE301_V2\src\main\resources\com\sfwe301\sfwe301_v2" />
+      <recent name="C:\Users\hanna\Documents\SFWE301\SFWE301_V2\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9abdc101-189b-41e9-814c-c1fd95bf4882" name="Changes" comment="" />
+      <created>1668494102683</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668494102683</updated>
+    </task>
+    <servers />
+  </component>
+</project>
