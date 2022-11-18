@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9abdc101-189b-41e9-814c-c1fd95bf4882" name="Changes" comment="">
+    <list default="true" id="9abdc101-189b-41e9-814c-c1fd95bf4882" name="Changes" comment="comments">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sfwe301/sfwe301/SFWETouchscreenController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sfwe301/sfwe301/SFWETouchscreenController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/sfwe301/sfwe301/SFWETouchscreenDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sfwe301/sfwe301/SFWETouchscreenDriver.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,5 +88,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="comments" />
+    <option name="LAST_COMMIT_MESSAGE" value="comments" />
   </component>
 </project>
