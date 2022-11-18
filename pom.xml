@@ -5,9 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.sfwe301</groupId>
-    <artifactId>SFWE301_V2</artifactId>
+    <artifactId>SFWE301</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>SFWE301_V2</name>
+    <name>SFWE301</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -69,7 +69,7 @@
                         <!-- Default configuration for running with: mvn clean javafx:run -->
                         <id>default-cli</id>
                         <configuration>
-                            <mainClass>com.sfwe301.sfwe301_v2/com.sfwe301.sfwe301_v2.HelloApplication</mainClass>
+                            <mainClass>com.sfwe301.sfwe301_v2/com.sfwe301.sfwe301.SFWETouchscreenDriver</mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
                             <jlinkImageName>app</jlinkImageName>
