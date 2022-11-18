@@ -8,9 +8,14 @@ import javafx.stage.Stage;
 
 import java.io.IOException;
 
+//SFWE Touchscreen Application class
+//controls the initial phase of the GUI (initialize primary stage, load the FXML file(s)
 public class SFWETouchscreenDriver extends Application {
     @Override
+    //within the driver class, we have a standard Java app start method
     public void start(Stage primaryStage) throws IOException {
+
+        //initializing the homepage FXML and stage for the application
         FXMLLoader fxmlLoader = new FXMLLoader(SFWETouchscreenDriver.class.getResource("homepage.fxml"));
         Scene scene = new Scene(fxmlLoader.load());
         primaryStage.setTitle("SFWE301 Semester Project - HOMEPAGE");
@@ -20,13 +25,17 @@ public class SFWETouchscreenDriver extends Application {
         primaryStage.show();
 
         //only absolute paths seem to work for images
+        //todo: fix issue with intellij not reading correct image path unless using local path, not acceptable
         Image icon = new Image("C:\\Users\\hanna\\Documents\\GitHub\\SFWE301\\src\\main\\resources\\images\\UA.png");
         //add UA icon to the window, could use UA logo multiple places
+        //creates the UA favicon for the application
         primaryStage.getIcons().add(icon);
 
+        //prepare for additional stages (sub menu options)
         Stage subStage1 = new Stage();
     }
 
+    //Main driver for the SFWE Touchscreen System
     public static void main(String[] args) {
         launch();
     }
