@@ -3,7 +3,7 @@ package com.sfwe301.sfwe301_v2;
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
 
-public class HelloController {
+public class SFWETouchscreenController {
     @FXML
     private Label welcomeText;
 

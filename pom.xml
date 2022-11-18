@@ -69,7 +69,7 @@
                         <!-- Default configuration for running with: mvn clean javafx:run -->
                         <id>default-cli</id>
                         <configuration>
-                            <mainClass>com.sfwe301.sfwe301_v2/com.sfwe301.sfwe301_v2.HelloApplication</mainClass>
+                            <mainClass>com.sfwe301.sfwe301_v2/com.sfwe301.sfwe301_v2.SFWETouchscreenDriver</mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
                             <jlinkImageName>app</jlinkImageName>
