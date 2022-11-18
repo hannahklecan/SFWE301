@@ -27,10 +27,10 @@ public class SFWETouchscreenDriver extends Application {
         //only absolute paths seem to work for images
         //todo: fix issue with intellij not reading correct image path unless using local path
         //try to list directory contents to find appropriate path 
-        Image icon = new Image("C:\\Users\\hanna\\Documents\\GitHub\\SFWE301\\src\\main\\resources\\images\\UA.png");
+        //Image icon = new Image("C:\\Users\\hanna\\Documents\\GitHub\\SFWE301\\src\\main\\resources\\images\\UA.png");
         //add UA icon to the window, could use UA logo multiple places
         //creates the UA favicon for the application
-        primaryStage.getIcons().add(icon);
+        //primaryStage.getIcons().add(icon);
 
         //prepare for additional stages (sub menu options)
         Stage subStage1 = new Stage();
