@@ -1,4 +1,4 @@
-package com.sfwe301.sfwe301_v2;
+package com.sfwe301.sfwe301;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
