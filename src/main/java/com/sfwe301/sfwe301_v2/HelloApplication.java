@@ -21,7 +21,7 @@ public class HelloApplication extends Application {
         primaryStage.show();
 
         //only absolute paths seem to work for images
-        Image icon = new Image("C:\\Users\\hanna\\Documents\\SFWE301\\SFWE301_V2\\src\\main\\resources\\images\\UA.png");
+        Image icon = new Image("C:\\Users\\hanna\\Documents\\GitHub\\SFWE301\\src\\main\\resources\\images\\UA.png");
         //add UA icon to the window, could use UA logo multiple places
         primaryStage.getIcons().add(icon);
 
