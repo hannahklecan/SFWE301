@@ -15,13 +15,15 @@ public class SFWETouchscreenController {
     /**
      * Example action handling method, prints a message to the screen onclick of button
      */
-    protected void onHelloButtonClick() {
+    protected void onHelloButtonClick(ActionEvent event) {
+
         welcomeText.setText("Welcome to the University of Arizona Department of Software Engineering!");
     }
 
     @FXML
     private void programInfoClick(ActionEvent event) {
         // Button was clicked, do something...
+        System.out.println("Program Info Button Clicked");
         welcomeText.setText("Welcome to the University of Arizona Department of Software Engineering!");
     }
 }
