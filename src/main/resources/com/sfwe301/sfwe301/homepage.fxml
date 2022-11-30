@@ -19,7 +19,7 @@
          <right>
             <VBox maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="614.0" prefWidth="400.0" spacing="20.0" BorderPane.alignment="CENTER">
                <children>
-                  <Button alignment="CENTER" mnemonicParsing="false" onAction="#programInfoClick" prefHeight="200.0" prefWidth="500.0" style="-fx-background-color: #cc0000; -fx-border-width: 5; -fx-border-color: BLACK; -fx-border-radius: 50; -fx-background-radius: 50;" text="Program Information" textAlignment="CENTER" textFill="WHITE">
+                  <Button fx:id="programInfo" alignment="CENTER" mnemonicParsing="false" onAction="#switchToProgramInfo" prefHeight="200.0" prefWidth="500.0" style="-fx-background-color: #cc0000; -fx-border-width: 5; -fx-border-color: BLACK; -fx-border-radius: 80; -fx-background-radius: 80;" text="Program Information" textAlignment="CENTER" textFill="WHITE">
                      <font>
                         <Font name="SansSerif Bold" size="24.0" />
                      </font>
@@ -27,7 +27,7 @@
                         <Insets bottom="0.5" left="0.5" right="0.5" top="0.5" />
                      </padding>
                   </Button>
-                  <Button alignment="CENTER" mnemonicParsing="false" prefHeight="200.0" prefWidth="500.0" style="-fx-background-color: #cc0000; -fx-border-width: 5; -fx-border-color: BLACK; -fx-border-radius: 50; -fx-background-radius: 50;" text="Student Engagement" textAlignment="CENTER" textFill="WHITE">
+                  <Button alignment="CENTER" mnemonicParsing="false" onAction="#switchToStudentEngagement" prefHeight="200.0" prefWidth="500.0" style="-fx-background-color: #cc0000; -fx-border-width: 5; -fx-border-color: BLACK; -fx-border-radius: 80; -fx-background-radius: 80;" text="Student Engagement" textAlignment="CENTER" textFill="WHITE">
                      <font>
                         <Font name="SansSerif Bold" size="24.0" />
                      </font>
@@ -35,7 +35,7 @@
                         <Insets bottom="0.5" left="0.5" right="0.5" top="0.5" />
                      </padding>
                   </Button>
-                  <Button alignment="CENTER" mnemonicParsing="false" prefHeight="200.0" prefWidth="500.0" style="-fx-background-color: #cc0000; -fx-border-width: 5; -fx-border-color: BLACK; -fx-border-radius: 50; -fx-background-radius: 50;" text="Academic Resources" textAlignment="CENTER" textFill="WHITE">
+                  <Button alignment="CENTER" mnemonicParsing="false" onAction="#switchToAcademicResources" prefHeight="200.0" prefWidth="500.0" style="-fx-background-color: #cc0000; -fx-border-width: 5; -fx-border-color: BLACK; -fx-border-radius: 80; -fx-background-radius: 80;" text="Academic Resources" textAlignment="CENTER" textFill="WHITE">
                      <font>
                         <Font name="SansSerif Bold" size="24.0" />
                      </font>
