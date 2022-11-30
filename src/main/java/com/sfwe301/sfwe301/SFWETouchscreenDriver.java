@@ -2,8 +2,10 @@ package com.sfwe301.sfwe301;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
+import javafx.geometry.Rectangle2D;
 import javafx.scene.Scene;
 import javafx.scene.image.Image;
+import javafx.stage.Screen;
 import javafx.stage.Stage;
 
 import java.io.IOException;
@@ -29,6 +31,7 @@ public class SFWETouchscreenDriver extends Application {
         //add UA icon to the window, could use UA logo multiple places
         //creates the UA favicon for the application
         primaryStage.getIcons().add(icon);
+
 
         //prepare for additional stages (sub menu options)
         Stage subStage1 = new Stage();
