@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9abdc101-189b-41e9-814c-c1fd95bf4882" name="Changes" comment="comments">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/sfwe301/sfwe301/ProgramInformation.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/sfwe301/sfwe301/StudentEngagement.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/sfwe301/sfwe301/SFWETouchscreenDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sfwe301/sfwe301/SFWETouchscreenDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/sfwe301/sfwe301/AcademicResourcePage.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/sfwe301/sfwe301/AcademicResourcePage.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

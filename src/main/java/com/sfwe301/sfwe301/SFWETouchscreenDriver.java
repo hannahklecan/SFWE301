@@ -24,11 +24,8 @@ public class SFWETouchscreenDriver extends Application {
         primaryStage.setFullScreenExitHint("");
         primaryStage.show();
 
-        //only absolute paths seem to work for images
-        //todo: fix issue with intellij not reading correct image path unless using local path
-        //try to list directory contents to find appropriate path
+        //direct link to U of A logo
         Image icon = new Image("https://brand.arizona.edu/sites/default/files/styles/uaqs_small/public/ua_block_rgb_3.png?itok=Q1eZqzk4");
-        //Image icon = new Image("C:\\Users\\hanna\\Documents\\GitHub\\SFWE301\\src\\main\\resources\\images\\UA.png");
         //add UA icon to the window, could use UA logo multiple places
         //creates the UA favicon for the application
         primaryStage.getIcons().add(icon);
