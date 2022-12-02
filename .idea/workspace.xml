@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9abdc101-189b-41e9-814c-c1fd95bf4882" name="Changes" comment="comments">
+    <list default="true" id="3da5647e-6714-45ea-a16f-2ab62bca5a3c" name="Changes" comment="button click works and updates a label on the borderpane">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sfwe301/sfwe301/SFWETouchscreenController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sfwe301/sfwe301/SFWETouchscreenController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/sfwe301/sfwe301/SFWETouchscreenDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sfwe301/sfwe301/SFWETouchscreenDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/sfwe301/sfwe301/AcademicResourcePage.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/sfwe301/sfwe301/AcademicResourcePage.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/sfwe301/sfwe301/ProgramInformation.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/sfwe301/sfwe301/ProgramInformation.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/sfwe301/sfwe301/StudentEngagement.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/sfwe301/sfwe301/StudentEngagement.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/sfwe301/sfwe301/homepage.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/sfwe301/sfwe301/homepage.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +66,21 @@
       <option name="presentableId" value="Default" />
       <updated>1668494102683</updated>
     </task>
+    <task id="LOCAL-00001" summary="centered-ish using borderpane">
+      <created>1669778501186</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669778501186</updated>
+    </task>
+    <task id="LOCAL-00002" summary="button click works and updates a label on the borderpane">
+      <created>1669780500298</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669780500298</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -76,6 +96,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="comments" />
-    <option name="LAST_COMMIT_MESSAGE" value="comments" />
+    <MESSAGE value="centered-ish using borderpane" />
+    <MESSAGE value="button click works and updates a label on the borderpane" />
+    <option name="LAST_COMMIT_MESSAGE" value="button click works and updates a label on the borderpane" />
   </component>
 </project>
