@@ -4,21 +4,38 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3da5647e-6714-45ea-a16f-2ab62bca5a3c" name="Changes" comment="button click works and updates a label on the borderpane">
+    <list default="true" id="9abdc101-189b-41e9-814c-c1fd95bf4882" name="Changes" comment="comments">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/sfwe301/sfwe301/SFWEMajor.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/MajorY1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/MajorY2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/MajorY3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/MajorY4.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/sfwe301/sfwe301/SFWETouchscreenController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sfwe301/sfwe301/SFWETouchscreenController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sfwe301/sfwe301/SFWETouchscreenDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sfwe301/sfwe301/SFWETouchscreenDriver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/sfwe301/sfwe301/AcademicResourcePage.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/sfwe301/sfwe301/AcademicResourcePage.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/sfwe301/sfwe301/ProgramInformation.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/sfwe301/sfwe301/ProgramInformation.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/sfwe301/sfwe301/StudentEngagement.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/sfwe301/sfwe301/StudentEngagement.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/sfwe301/sfwe301/homepage.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/sfwe301/sfwe301/homepage.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sfwe301/sfwe301/SFWETouchscreenController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sfwe301/sfwe301/SFWETouchscreenDriver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sfwe301/sfwe301/SFWETouchscreenDriver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sfwe301/sfwe301/homepage.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sfwe301/sfwe301/homepage.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/images/UA.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/images/swlogo.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -33,6 +50,9 @@
     </option>
   </component>
   <component name="ProjectId" id="2HZYVz0u4J6LHMCF870evsf7uxK" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -42,19 +62,28 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/hanna/Documents/GitHub/SFWE301&quot;
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/richa/GitHub/SFWE301/src/main/resources/images&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.sfwe301.sfwe301" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\richa\GitHub\SFWE301\src\main\resources\images" />
+      <recent name="C:\Users\richa\GitHub\SFWE301\src\main\resources\com\sfwe301\sfwe301" />
       <recent name="C:\Users\hanna\Documents\SFWE301\SFWE301_V2\src\main\resources\com\sfwe301\sfwe301_v2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\richa\GitHub\SFWE301\.idea\libraries" />
       <recent name="C:\Users\hanna\Documents\GitHub\SFWE301\src" />
       <recent name="C:\Users\hanna\Documents\SFWE301\SFWE301_V2\src\main\resources\images" />
       <recent name="C:\Users\hanna\Documents\SFWE301\SFWE301_V2\src\main\java\com\sfwe301\sfwe301_v2" />
       <recent name="C:\Users\hanna\Documents\SFWE301\SFWE301_V2\src\main\resources\com\sfwe301\sfwe301_v2" />
-      <recent name="C:\Users\hanna\Documents\SFWE301\SFWE301_V2\src" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -65,23 +94,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668494102683</updated>
+      <workItem from="1669943669899" duration="2959000" />
+      <workItem from="1669946649081" duration="3433000" />
+      <workItem from="1670199137462" duration="2015000" />
+      <workItem from="1670201267824" duration="1113000" />
+      <workItem from="1670203125528" duration="731000" />
+      <workItem from="1670203917110" duration="966000" />
     </task>
-    <task id="LOCAL-00001" summary="centered-ish using borderpane">
-      <created>1669778501186</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1669778501186</updated>
-    </task>
-    <task id="LOCAL-00002" summary="button click works and updates a label on the borderpane">
-      <created>1669780500298</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1669780500298</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -96,8 +119,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="comments" />
-    <MESSAGE value="centered-ish using borderpane" />
-    <MESSAGE value="button click works and updates a label on the borderpane" />
-    <option name="LAST_COMMIT_MESSAGE" value="button click works and updates a label on the borderpane" />
+    <option name="LAST_COMMIT_MESSAGE" value="comments" />
   </component>
 </project>
