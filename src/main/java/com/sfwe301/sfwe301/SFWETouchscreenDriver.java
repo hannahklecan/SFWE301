@@ -2,11 +2,9 @@ package com.sfwe301.sfwe301;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
-import javafx.geometry.Rectangle2D;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.scene.image.Image;
-import javafx.stage.Screen;
 import javafx.stage.Stage;
 
 import java.io.IOException;
@@ -19,7 +17,6 @@ public class SFWETouchscreenDriver extends Application {
     public void start(Stage primaryStage) throws IOException {
 
         //initializing the homepage FXML and stage for the application
-        //FXMLLoader fxmlLoader = new FXMLLoader(SFWETouchscreenDriver.class.getResource("homepage.fxml"));
         Parent root = FXMLLoader.load(SFWETouchscreenDriver.class.getResource("homepage.fxml"));
         //Scene scene = new Scene(fxmlLoader.load());
         Scene scene = new Scene(root);
@@ -35,11 +32,6 @@ public class SFWETouchscreenDriver extends Application {
         //creates the UA favicon for the application
         primaryStage.getIcons().add(icon);
 
-
-        //prepare for additional scenes (sub menu options)
-        //initializing the homepage FXML and stage for the application
-        FXMLLoader fxmlLoader2 = new FXMLLoader(SFWETouchscreenDriver.class.getResource("ProgramInformation.fxml"));
-        Scene scene2 = new Scene(fxmlLoader2.load());
     }
 
     //Main driver for the SFWE Touchscreen System
