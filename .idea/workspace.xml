@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9abdc101-189b-41e9-814c-c1fd95bf4882" name="Changes" comment="comments">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/sfwe301/sfwe301/SFWEMajor.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/MajorY1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/MajorY2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/MajorY3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/MajorY4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sfwe301/sfwe301/SFWETouchscreenController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sfwe301/sfwe301/SFWETouchscreenController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sfwe301/sfwe301/SFWETouchscreenController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sfwe301/sfwe301/SFWETouchscreenDriver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sfwe301/sfwe301/SFWETouchscreenDriver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sfwe301/sfwe301/homepage.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sfwe301/sfwe301/homepage.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/images/UA.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/images/swlogo.png" beforeDir="false" />
-    </list>
+    <list default="true" id="9abdc101-189b-41e9-814c-c1fd95bf4882" name="Changes" comment="comments added sfwe major with images and qr code" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,11 +66,11 @@
       <recent name="C:\Users\hanna\Documents\SFWE301\SFWE301_V2\src\main\resources\com\sfwe301\sfwe301_v2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\richa\GitHub\SFWE301\target\classes\com\sfwe301\sfwe301" />
+      <recent name="C:\Users\richa\GitHub\SFWE301\target\classes\images" />
+      <recent name="C:\Users\richa\GitHub\SFWE301\src\main\resources\images" />
       <recent name="C:\Users\richa\GitHub\SFWE301\.idea\libraries" />
       <recent name="C:\Users\hanna\Documents\GitHub\SFWE301\src" />
-      <recent name="C:\Users\hanna\Documents\SFWE301\SFWE301_V2\src\main\resources\images" />
-      <recent name="C:\Users\hanna\Documents\SFWE301\SFWE301_V2\src\main\java\com\sfwe301\sfwe301_v2" />
-      <recent name="C:\Users\hanna\Documents\SFWE301\SFWE301_V2\src\main\resources\com\sfwe301\sfwe301_v2" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -99,8 +86,16 @@
       <workItem from="1670199137462" duration="2015000" />
       <workItem from="1670201267824" duration="1113000" />
       <workItem from="1670203125528" duration="731000" />
-      <workItem from="1670203917110" duration="966000" />
+      <workItem from="1670203917110" duration="1359000" />
     </task>
+    <task id="LOCAL-00001" summary="comments added sfwe major with images and qr code">
+      <created>1670205043772</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670205043772</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,6 +114,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="comments" />
-    <option name="LAST_COMMIT_MESSAGE" value="comments" />
+    <MESSAGE value="comments added sfwe major with images and qr code" />
+    <option name="LAST_COMMIT_MESSAGE" value="comments added sfwe major with images and qr code" />
   </component>
 </project>

@@ -59,7 +59,7 @@
                         </Text>
                         <ImageView fitHeight="233.0" fitWidth="216.0" pickOnBounds="true" preserveRatio="true">
                             <image>
-                                <Image url="@../../../images/sw.png" />
+                                <Image url="@../../../../../../target/classes/images/sw.png" />
                             </image>
                         </ImageView>
                         <Text fill="WHITE" fontSmoothingType="LCD" strokeType="OUTSIDE" strokeWidth="0.0" text="est. 2021" textAlignment="CENTER" textOrigin="CENTER" wrappingWidth="423.54217529296875">
