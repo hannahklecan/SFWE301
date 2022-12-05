@@ -1,24 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="SFWE301:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3da5647e-6714-45ea-a16f-2ab62bca5a3c" name="Changes" comment="button click works and updates a label on the borderpane">
+    <list default="true" id="9abdc101-189b-41e9-814c-c1fd95bf4882" name="Changes" comment="comments">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/sfwe301/sfwe301/ProgramInfo_Grad.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/sfwe301/sfwe301/ProgramInfo_Major.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/sfwe301/sfwe301/ProgramInfo_Minor.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/sfwe301/sfwe301/StudentEng_Clubs.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/sfwe301/sfwe301/StudentEng_Events.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/sfwe301/sfwe301/StudentEng_Jobs.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/sfwe301/sfwe301/SFWETouchscreenController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sfwe301/sfwe301/SFWETouchscreenController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sfwe301/sfwe301/SFWETouchscreenDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sfwe301/sfwe301/SFWETouchscreenDriver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/com/sfwe301/sfwe301/AcademicResourcePage.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/sfwe301/sfwe301/AcademicResourcePage.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/com/sfwe301/sfwe301/ProgramInformation.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/sfwe301/sfwe301/ProgramInformation.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/com/sfwe301/sfwe301/StudentEngagement.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/sfwe301/sfwe301/StudentEngagement.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/sfwe301/sfwe301/homepage.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/sfwe301/sfwe301/homepage.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -42,7 +63,10 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/hanna/Documents/GitHub/SFWE301&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hanna/Desktop&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
   <component name="RecentsManager">
