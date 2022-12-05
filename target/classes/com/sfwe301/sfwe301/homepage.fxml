@@ -19,7 +19,7 @@
          <right>
             <VBox maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="614.0" prefWidth="400.0" spacing="20.0" BorderPane.alignment="CENTER">
                <children>
-                  <Button alignment="CENTER" mnemonicParsing="false" prefHeight="200.0" prefWidth="500.0" style="-fx-background-color: #cc0000; -fx-border-width: 5; -fx-border-color: BLACK; -fx-border-radius: 80; -fx-background-radius: 80;" text="SFWE Advisor Appointments" textAlignment="CENTER" textFill="WHITE">
+                  <Button fx:id="programInfo" alignment="CENTER" mnemonicParsing="false" onAction="#switchToProgramInfo" prefHeight="200.0" prefWidth="500.0" style="-fx-background-color: #cc0000; -fx-border-width: 5; -fx-border-color: BLACK; -fx-border-radius: 80; -fx-background-radius: 80;" text="Program Information" textAlignment="CENTER" textFill="WHITE">
                      <font>
                         <Font name="SansSerif Bold" size="24.0" />
                      </font>
@@ -27,7 +27,7 @@
                         <Insets bottom="0.5" left="0.5" right="0.5" top="0.5" />
                      </padding>
                   </Button>
-                  <Button alignment="CENTER" mnemonicParsing="false" prefHeight="200.0" prefWidth="500.0" style="-fx-background-color: #cc0000; -fx-border-width: 5; -fx-border-color: BLACK; -fx-border-radius: 80; -fx-background-radius: 80;" text="Study Groups and Tutoring" textAlignment="CENTER" textFill="WHITE">
+                  <Button alignment="CENTER" mnemonicParsing="false" onAction="#switchToStudentEngagement" prefHeight="200.0" prefWidth="500.0" style="-fx-background-color: #cc0000; -fx-border-width: 5; -fx-border-color: BLACK; -fx-border-radius: 80; -fx-background-radius: 80;" text="Student Engagement" textAlignment="CENTER" textFill="WHITE">
                      <font>
                         <Font name="SansSerif Bold" size="24.0" />
                      </font>
@@ -35,7 +35,7 @@
                         <Insets bottom="0.5" left="0.5" right="0.5" top="0.5" />
                      </padding>
                   </Button>
-                  <Button alignment="CENTER" mnemonicParsing="false" prefHeight="200.0" prefWidth="500.0" style="-fx-background-color: #cc0000; -fx-border-width: 5; -fx-border-color: BLACK; -fx-border-radius: 80; -fx-background-radius: 80;" text="Disability Resource Center" textAlignment="CENTER" textFill="WHITE">
+                  <Button alignment="CENTER" mnemonicParsing="false" onAction="#switchToAcademicResources" prefHeight="200.0" prefWidth="500.0" style="-fx-background-color: #cc0000; -fx-border-width: 5; -fx-border-color: BLACK; -fx-border-radius: 80; -fx-background-radius: 80;" text="Academic Resources" textAlignment="CENTER" textFill="WHITE">
                      <font>
                         <Font name="SansSerif Bold" size="24.0" />
                      </font>
@@ -59,7 +59,7 @@
                   </Text>
                   <ImageView fitHeight="233.0" fitWidth="216.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="@../../../../../../target/classes/images/sw.png" />
+                        <Image url="@../../../images/sw.png" />
                      </image>
                   </ImageView>
                   <Text fill="WHITE" fontSmoothingType="LCD" strokeType="OUTSIDE" strokeWidth="0.0" text="est. 2021" textAlignment="CENTER" textOrigin="CENTER" wrappingWidth="423.54217529296875">
@@ -83,14 +83,7 @@
                </children></TilePane>
          </bottom>
          <top>
-            <TilePane prefHeight="100.0" prefWidth="1321.0" BorderPane.alignment="CENTER">
-               <children>
-                  <Button mnemonicParsing="false" onAction="#switchToHomepage" prefHeight="98.0" prefWidth="197.0" style="-fx-background-color: #cc0000; -fx-border-width: 5; -fx-background-radius: 80; -fx-border-color: black; -fx-border-radius: 80;" text="BACK" textFill="WHITE">
-                     <font>
-                        <Font name="SansSerif Bold" size="20.0" />
-                     </font>
-                  </Button>
-               </children></TilePane>
+            <TilePane prefHeight="100.0" prefWidth="1321.0" BorderPane.alignment="CENTER" />
          </top>
       </BorderPane>
    </children>
