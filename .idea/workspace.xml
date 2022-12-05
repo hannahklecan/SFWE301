@@ -9,19 +9,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9abdc101-189b-41e9-814c-c1fd95bf4882" name="Changes" comment="nearly finished">
+    <list default="true" id="9abdc101-189b-41e9-814c-c1fd95bf4882" name="Changes" comment="student engagement, academics resizing">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sfwe301/sfwe301/SFWETouchscreenDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sfwe301/sfwe301/SFWETouchscreenDriver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/sfwe301/sfwe301/AcademicResourcePage.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/sfwe301/sfwe301/AcademicResourcePage.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/sfwe301/sfwe301/ProgramInfo_Grad.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/sfwe301/sfwe301/ProgramInfo_Grad.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/com/sfwe301/sfwe301/ProgramInfo_Major.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/sfwe301/sfwe301/ProgramInfo_Major.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/sfwe301/sfwe301/ProgramInfo_Minor.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/sfwe301/sfwe301/ProgramInfo_Minor.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/sfwe301/sfwe301/ProgramInformation.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/sfwe301/sfwe301/ProgramInformation.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/sfwe301/sfwe301/StudentEng_Clubs.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/sfwe301/sfwe301/StudentEng_Events.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/sfwe301/sfwe301/StudentEng_Jobs.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/sfwe301/sfwe301/StudentEngagement.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/sfwe301/sfwe301/StudentEngagement.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/sfwe301/sfwe301/homepage.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/sfwe301/sfwe301/homepage.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670209025823</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="student engagement, academics resizing">
+      <created>1670277845333</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670277845333</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -131,6 +128,7 @@
     <MESSAGE value="centered-ish using borderpane" />
     <MESSAGE value="button click works and updates a label on the borderpane" />
     <MESSAGE value="nearly finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="nearly finished" />
+    <MESSAGE value="student engagement, academics resizing" />
+    <option name="LAST_COMMIT_MESSAGE" value="student engagement, academics resizing" />
   </component>
 </project>

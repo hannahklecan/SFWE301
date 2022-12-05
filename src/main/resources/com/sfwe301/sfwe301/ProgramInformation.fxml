@@ -30,6 +30,9 @@
                             <padding>
                                 <Insets bottom="0.5" left="0.5" right="0.5" top="0.5" />
                             </padding>
+                     <VBox.margin>
+                        <Insets />
+                     </VBox.margin>
                         </Button>
                         <Button alignment="CENTER" mnemonicParsing="false" onAction="#switchToMinor" prefHeight="200.0" prefWidth="500.0" style="-fx-background-color: #cc0000; -fx-border-width: 5; -fx-border-color: BLACK; -fx-border-radius: 80; -fx-background-radius: 80;" text="SFWE Minor" textAlignment="CENTER" textFill="WHITE">
                             <font>
@@ -51,6 +54,9 @@
                     <padding>
                         <Insets right="10.0" />
                     </padding>
+               <BorderPane.margin>
+                  <Insets right="80.0" />
+               </BorderPane.margin>
                 </VBox>
             </right>
             <center>
