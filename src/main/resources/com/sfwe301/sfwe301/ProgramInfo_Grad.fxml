@@ -14,6 +14,11 @@
 
 <AnchorPane prefHeight="529.416" prefWidth="941.184" style="-fx-background-color: #153a5c;" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.sfwe301.sfwe301.SFWETouchscreenController">
     <children>
+      <ImageView fitHeight="944.0" fitWidth="1715.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@HomepageCoverPhoto.jpg" />
+         </image>
+      </ImageView>
         <BorderPane prefHeight="200.0" prefWidth="200.0">
             <right>
                 <VBox maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="614.0" prefWidth="400.0" spacing="20.0" BorderPane.alignment="CENTER">
