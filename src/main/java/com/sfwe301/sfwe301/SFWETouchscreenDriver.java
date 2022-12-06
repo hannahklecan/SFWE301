@@ -17,7 +17,7 @@ public class SFWETouchscreenDriver extends Application {
     public void start(Stage primaryStage) throws IOException {
 
         //initializing the homepage FXML and stage for the application
-        Parent root = FXMLLoader.load(SFWETouchscreenDriver.class.getResource("homepage.fxml"));
+        Parent root = FXMLLoader.load(SFWETouchscreenDriver.class.getResource("HomeIdle.fxml"));
         //Scene scene = new Scene(fxmlLoader.load());
         Scene scene = new Scene(root);
         primaryStage.setTitle("SFWE301 Semester Project - HOMEPAGE");
