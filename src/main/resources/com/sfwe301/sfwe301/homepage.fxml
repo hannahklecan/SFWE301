@@ -13,8 +13,13 @@
 <?import javafx.scene.text.Font?>
 <?import javafx.scene.text.Text?>
 
-<AnchorPane prefHeight="529.416" prefWidth="941.184" style="-fx-background-color: #153a5c;" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.sfwe301.sfwe301.SFWETouchscreenController">
+<AnchorPane prefHeight="1103.0" prefWidth="1720.0" style="-fx-background-color: #153a5c;" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.sfwe301.sfwe301.SFWETouchscreenController">
    <children>
+      <ImageView fitHeight="1265.0" fitWidth="2130.0" layoutX="-155.0" layoutY="-21.0" nodeOrientation="INHERIT" pickOnBounds="true" preserveRatio="true" AnchorPane.bottomAnchor="-141.0" AnchorPane.leftAnchor="-155.0" AnchorPane.rightAnchor="-255.0" AnchorPane.topAnchor="-21.0">
+         <image>
+            <Image url="@HomepageCoverPhoto.jpg" />
+         </image>
+      </ImageView>
       <BorderPane prefHeight="200.0" prefWidth="200.0">
          <right>
             <VBox maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="614.0" prefWidth="400.0" spacing="20.0" BorderPane.alignment="CENTER">
@@ -52,9 +57,9 @@
          <center>
             <TilePane accessibleRole="IMAGE_VIEW" alignment="CENTER" blendMode="SRC_ATOP" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="674.0" prefWidth="502.0" BorderPane.alignment="CENTER">
                <children>
-                  <Text fill="WHITE" fontSmoothingType="LCD" strokeType="OUTSIDE" strokeWidth="0.0" text="SOFTWARE ENGINEERING" textAlignment="CENTER" wrappingWidth="457.1175003051758">
+                  <Text fill="WHITE" fontSmoothingType="LCD" strokeType="OUTSIDE" strokeWidth="0.0" style="-fx-fill: white;" text="SOFTWARE ENGINEERING" textAlignment="CENTER" wrappingWidth="457.1175003051758">
                      <font>
-                        <Font name="SansSerif Regular" size="36.0" />
+                        <Font name="SansSerif Bold" size="48.0" />
                      </font>
                   </Text>
                   <ImageView fitHeight="233.0" fitWidth="216.0" pickOnBounds="true" preserveRatio="true">
@@ -64,7 +69,7 @@
                   </ImageView>
                   <Text fill="WHITE" fontSmoothingType="LCD" strokeType="OUTSIDE" strokeWidth="0.0" text="est. 2021" textAlignment="CENTER" textOrigin="CENTER" wrappingWidth="423.54217529296875">
                      <font>
-                        <Font name="SansSerif Regular" size="24.0" />
+                        <Font name="SansSerif Bold" size="24.0" />
                      </font>
                   </Text>
                </children>
@@ -83,7 +88,7 @@
                </children></TilePane>
          </bottom>
          <top>
-            <TilePane prefHeight="100.0" prefWidth="1321.0" BorderPane.alignment="CENTER" />
+            <TilePane prefHeight="100.0" prefWidth="1216.0" BorderPane.alignment="CENTER" />
          </top>
       </BorderPane>
    </children>
